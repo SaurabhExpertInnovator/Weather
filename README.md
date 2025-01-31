@@ -1,2 +1,2 @@
 # Weather_Forecasting
-This project aim to provide details of particular city location provided by user.
+This project aim to provide details of weather of particular city location provided by user.
